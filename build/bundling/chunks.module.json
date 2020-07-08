@@ -1,0 +1,111 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "cc92a85faca70409ffa0",
+  "publicPath": "/static/",
+  "outputPath": "/Users/willnahmens/conv-w-zo/build/static",
+  "assetsByChunkName": {
+    "conv-w-zo": "conv-w-zo.module.js",
+    "list": [
+      "list.module.js",
+      "list.c8f97c46393717610caf.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "c8f97c46393717610caf.hot-update.json",
+      "size": 46,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "conv-w-zo.module.js",
+      "size": 5055979,
+      "chunks": [
+        "conv-w-zo"
+      ],
+      "chunkNames": [
+        "conv-w-zo"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.c8f97c46393717610caf.hot-update.js",
+      "size": 32858,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 54308,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "conv-w-zo": {
+      "chunks": [
+        "conv-w-zo"
+      ],
+      "assets": [
+        "conv-w-zo.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "conv-w-zo": {
+      "chunks": [
+        "conv-w-zo"
+      ],
+      "assets": [
+        "conv-w-zo.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js",
+        "list.c8f97c46393717610caf.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
